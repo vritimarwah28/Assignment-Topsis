@@ -64,6 +64,7 @@ This project provides both a **command-line tool** and a **web interface** for p
 ## 4. Live Link
 
 **🚀 Live Demo:** 
+<https://vriti28.streamlit.app/>
 
 ---
 
