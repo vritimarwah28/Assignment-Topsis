@@ -1,6 +1,6 @@
-# Topsis-ANGAD-102313005
+# Topsis-VRITI-102313063
 
-**TOPSIS** (Technique for Order Preference by Similarity to Ideal Solution) by **ANGAD SINGH MADHOK** (Roll 102313005)
+**TOPSIS** (Technique for Order Preference by Similarity to Ideal Solution) by **VRITI MARWAHA** (Roll 102313063)
 
 ---
 
@@ -63,7 +63,7 @@ This project provides both a **command-line tool** and a **web interface** for p
 
 ## 4. Live Link
 
-**🚀 Live Demo:** [https://topsis-data-science-bghplnmn7wfrzxw8hbepcc.streamlit.app/](https://topsis-data-science-bghplnmn7wfrzxw8hbepcc.streamlit.app/)
+**🚀 Live Demo:** 
 
 ---
 
@@ -75,7 +75,7 @@ This project provides both a **command-line tool** and a **web interface** for p
 
 ## 📦 Repository
 
-<https://github.com/angad2803/TOPSIS-Data-Science>
+<https://github.com/vritimarwah28/Assignment-Topsis.git>
 
 ---
 
@@ -109,4 +109,4 @@ MIT License
 
 ## 👤 Author
 
-ANGAD SINGH MADHOK - Roll No. 102313005
+VRITI MARWAHA - Roll No. 102313063
