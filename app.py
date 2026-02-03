@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from topsis_vriti import run_topsis
+from topsis_vriti.core import run_topsis
 import os
 import tempfile
 
