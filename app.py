@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from topsis_angad import run_topsis
+from topsis_vriti import run_topsis
 import os
 import tempfile
 
@@ -84,5 +84,5 @@ with col2:
 
 # Footer
 st.markdown("---")
-st.markdown("**Author:** Angad Singh Madhok (102313005)")
-st.markdown("[GitHub Repository](https://github.com/angad2803/TOPSIS-Data-Science)")
+st.markdown("**Author:** Vriti Marwaha (102313063)")
+st.markdown("[GitHub Repository](https://github.com/vritimarwah28/Assignment-Topsis.git)")
